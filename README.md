@@ -1,1 +1,1 @@
-# App Profile Data Analysis Project
+This is a project I made for my Python class, it's pretty nifty where you can access different app feedback catergories on both the ios app store and the android app store. Using this data certain app companies can create apps finding that certain apps perform better than others.
